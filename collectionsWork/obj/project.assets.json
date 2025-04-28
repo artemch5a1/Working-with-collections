@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\collectionsWork\\collectionsWork\\collectionsWork.csproj",
+      "projectUniqueName": "D:\\Working-with-collections\\collectionsWork\\collectionsWork.csproj",
       "projectName": "collectionsWork",
-      "projectPath": "D:\\collectionsWork\\collectionsWork\\collectionsWork.csproj",
+      "projectPath": "D:\\Working-with-collections\\collectionsWork\\collectionsWork.csproj",
       "packagesPath": "C:\\Users\\гусевиа\\.nuget\\packages\\",
-      "outputPath": "D:\\collectionsWork\\collectionsWork\\obj\\",
+      "outputPath": "D:\\Working-with-collections\\collectionsWork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
