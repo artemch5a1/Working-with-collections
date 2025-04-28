@@ -12,7 +12,7 @@ namespace collectionsWork
 
         public delete_elem(ICollection<T> collection)
         {
-            _collection = collection ?? throw new ArgumentNullException(nameof(collection));
+            _collection = collection ?? throw new ArgumentNullException(nameof(collection)); //
         }
 
         public bool RemoveFirst(Predicate<T> predicate)
