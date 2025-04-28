@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = collectionsWork
-build_property.ProjectDir = C:\Users\чимовар\Source\Repos\Working-with-collections\collectionsWork\
+build_property.ProjectDir = C:\Users\чимовар\source\repos\Working-with-collections\collectionsWork\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

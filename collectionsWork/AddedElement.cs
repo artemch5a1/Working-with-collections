@@ -16,7 +16,7 @@ namespace collectionsWork
             }
             else
             {
-                list.Add(item); // если нет, добавляем новый элемент
+                list.Add(item); // если нет, добавляем новый элемен
             }
         }
     }
