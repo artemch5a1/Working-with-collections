@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace collectionsWork
 {
+    // класс для добавления элементов и расположения в обратном порядке
     internal class AddedElement
     {
         public static void Add<T>(List<T> list, T item) // обощенный метод для 
@@ -16,7 +17,7 @@ namespace collectionsWork
             }
             else
             {
-                list.Add(item); // если нет, добавляем новый элемен
+                list.Add(item); // если нет, добавляем новый элемент
             }
         }
     }
