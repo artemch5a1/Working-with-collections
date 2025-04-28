@@ -1,9 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\collectionsWork\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0447\u0438\u043C\u043E\u0432\u0430\u0440\\source\\repos\\Working-with-collections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{760012BB-1B5E-458F-9A23-1CDBAE6AC404}|collectionsWork\\collectionsWork.csproj|d:\\collectionswork\\collectionswork\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{760012BB-1B5E-458F-9A23-1CDBAE6AC404}|collectionsWork\\collectionsWork.csproj|c:\\users\\\u0447\u0438\u043C\u043E\u0432\u0430\u0440\\source\\repos\\working-with-collections\\collectionswork\\reverseelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760012BB-1B5E-458F-9A23-1CDBAE6AC404}|collectionsWork\\collectionsWork.csproj|solutionrelative:collectionswork\\reverseelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{760012BB-1B5E-458F-9A23-1CDBAE6AC404}|collectionsWork\\collectionsWork.csproj|c:\\users\\\u0447\u0438\u043C\u043E\u0432\u0430\u0440\\source\\repos\\working-with-collections\\collectionswork\\addedelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760012BB-1B5E-458F-9A23-1CDBAE6AC404}|collectionsWork\\collectionsWork.csproj|solutionrelative:collectionswork\\addedelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> main
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760012BB-1B5E-458F-9A23-1CDBAE6AC404}|collectionsWork\\collectionsWork.csproj|c:\\users\\\u0447\u0438\u043C\u043E\u0432\u0430\u0440\\source\\repos\\working-with-collections\\collectionswork\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760012BB-1B5E-458F-9A23-1CDBAE6AC404}|collectionsWork\\collectionsWork.csproj|solutionrelative:collectionswork\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,19 +28,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\collectionsWork\\collectionsWork\\Class1.cs",
-              "RelativeDocumentMoniker": "collectionsWork\\Class1.cs",
-              "ToolTip": "D:\\collectionsWork\\collectionsWork\\Class1.cs",
-              "RelativeToolTip": "collectionsWork\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+<<<<<<< HEAD
+              "Title": "ReverseElements.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0438\u043C\u043E\u0432\u0430\u0440\\source\\repos\\Working-with-collections\\collectionsWork\\ReverseElements.cs",
+              "RelativeDocumentMoniker": "collectionsWork\\ReverseElements.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0438\u043C\u043E\u0432\u0430\u0440\\source\\repos\\Working-with-collections\\collectionsWork\\ReverseElements.cs",
+              "RelativeToolTip": "collectionsWork\\ReverseElements.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T07:22:22.682Z",
+              "WhenOpened": "2025-04-28T11:06:28.769Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0438\u043C\u043E\u0432\u0430\u0440\\source\\repos\\Working-with-collections\\collectionsWork\\Class1.cs",
+              "RelativeDocumentMoniker": "collectionsWork\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0438\u043C\u043E\u0432\u0430\u0440\\source\\repos\\Working-with-collections\\collectionsWork\\Class1.cs",
+              "RelativeToolTip": "collectionsWork\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+=======
+              "Title": "AddedElement.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0438\u043C\u043E\u0432\u0430\u0440\\source\\repos\\Working-with-collections\\collectionsWork\\AddedElement.cs",
+              "RelativeDocumentMoniker": "collectionsWork\\AddedElement.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0438\u043C\u043E\u0432\u0430\u0440\\source\\repos\\Working-with-collections\\collectionsWork\\AddedElement.cs",
+              "RelativeToolTip": "collectionsWork\\AddedElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+>>>>>>> main
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:40:29.814Z",
+              "EditorCaption": ""
+<<<<<<< HEAD
+=======
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0438\u043C\u043E\u0432\u0430\u0440\\source\\repos\\Working-with-collections\\collectionsWork\\Class1.cs",
+              "RelativeDocumentMoniker": "collectionsWork\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u0447\u0438\u043C\u043E\u0432\u0430\u0440\\source\\repos\\Working-with-collections\\collectionsWork\\Class1.cs",
+              "RelativeToolTip": "collectionsWork\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:22:22.682Z"
+>>>>>>> main
             }
           ]
         }

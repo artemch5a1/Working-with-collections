@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\чимовар\\source\\repos\\Working-with-collections\\collectionsWork\\collectionsWork.csproj",
       "projectName": "collectionsWork",
       "projectPath": "C:\\Users\\чимовар\\source\\repos\\Working-with-collections\\collectionsWork\\collectionsWork.csproj",
       "packagesPath": "C:\\Users\\чимовар\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\чимовар\\source\\repos\\Working-with-collections\\collectionsWork\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\чимовар\\Source\\Repos\\Working-with-collections\\collectionsWork\\collectionsWork.csproj",
+      "projectName": "collectionsWork",
+      "projectPath": "C:\\Users\\чимовар\\Source\\Repos\\Working-with-collections\\collectionsWork\\collectionsWork.csproj",
+      "packagesPath": "C:\\Users\\чимовар\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\чимовар\\Source\\Repos\\Working-with-collections\\collectionsWork\\obj\\",
+>>>>>>> main
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
