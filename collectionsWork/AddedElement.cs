@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace collectionsWork
 {
     // класс для добавления элементов и расположения в обратном порядке
-    internal class AddedElement
+    internal static class AddedElement
     {
-        public static void Add<T>(List<T> list, T item) // обощенный метод для 
+        public static void Add<T>(this List<T> list, T item) // обощенный метод для 
         {
             if(list.Count < list.Capacity) // предпологаем, что внутри массив, проверяем есть ли метод
             {
